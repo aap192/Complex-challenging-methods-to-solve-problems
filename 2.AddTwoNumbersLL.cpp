@@ -14,6 +14,8 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+//modify sum
 class Solution {
 public:
 ListNode *addTwoNumbers(ListNode *p, ListNode *q) {
