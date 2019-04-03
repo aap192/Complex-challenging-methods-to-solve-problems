@@ -14,6 +14,8 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+//Removenth
 class Solution {
 public:
     void removeNodeFromStart(ListNode *&head,int pos){
