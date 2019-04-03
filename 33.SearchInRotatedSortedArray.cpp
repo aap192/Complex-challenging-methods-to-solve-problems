@@ -11,6 +11,7 @@ class Solution {
 public:
     int search(vector<int>& nums, int target)
     {
+        //
         if(nums.empty()) return -1;
         int size = nums.size();
         int l = 0, r = size-1, m = 0;
