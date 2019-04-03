@@ -5,7 +5,7 @@
 // Copyright   : 
 // Description : Remove Element in C++, Ansi-style
 //============================================================================
-
+//remove
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
