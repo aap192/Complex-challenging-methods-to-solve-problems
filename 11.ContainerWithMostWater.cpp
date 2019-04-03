@@ -9,7 +9,7 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        
+    // Optimized Solution
     int water = 0;
     int l = 0;
     int r = height.size() - 1;
